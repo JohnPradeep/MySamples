@@ -1,0 +1,257 @@
+FileName	ChangeItemType	CheckinDate	CheckedIn By	TFS ID	ChangseSet ID	 MergeReq ID
+$/NetOxygen/Main/Web Projects/Web_Client/fw_saas/WGS_Interface_Explorer.htm	Edit, Merge	11/21/2018 5:35:31 AM	Pradeep L	765694	135114	766926
+$/NetOxygen/Main/Web Projects/Web_Client/fw_saas/skins/cirrus/InterfaceExplorer.css	Edit, Merge	11/21/2018 5:35:31 AM	Pradeep L	765694	135114	766926
+$/NetOxygen/Main/Web Projects/Web_Client/fw_saas/skins/cirrus/jquery-ui.css	Edit, Merge	11/21/2018 5:35:31 AM	Pradeep L	765694	135114	766926
+$/NetOxygen/Main/SaaS/NOX Files/ComplianceRequest.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/IncomeVerificnDetails.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/IncomeVerificnNewRequest.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/IncomeVerificnRequest.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_4506T_Equifax_P.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_4506T_Equifax_VerificnDetails.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Administration_Tree.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Application_Summary.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Assets_P.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Construction Worksheet.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Construction_Funds_Escrow.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Construction_Info.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Debts_P.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Entity_Officer_Info_P.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Fraud_Request.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_HMDA_Transmittal_2018.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_HUD_Sales_Contract.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_ID_Tolerance.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_ID_Tolerance_C1.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_ID_Tolerance_C2.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Image_Interrupt_C.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Image_Interrupt_P.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Income_General_Comments.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_IncomeVerifyVeriTax.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_LoanSafe_Request.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Order_Tracking_C.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Order_Tracking_P.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Property_Detail.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Seller_Representative_Info_P.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_SSN_Equifax_Request.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_SSN_Equifax_Response.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_SSN_Equifax_VerificnDetails.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_SSNMtchReq.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_SSNVerification_P.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_ToolBar_Borrower_Alias_P.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_WORKFLOW_EXPLORERADMIN_C1.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_WORKFLOW_EXPLORERADMIN_C2.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_WORKFLOW_EXPLORERADMIN_P.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_WORKFLOW_WIPGRAPH.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGS_WORKFLOW_WORKREASSIGNMENT_P.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGSIncomeVerifyVeriTax_C.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/WGSIncomeVerifyVeriTax_P.nox	Edit, Merge	11/23/2018 8:36:31 AM	Balaji Natchiappan	765694	135264	768390
+$/NetOxygen/Main/SaaS/NOX Files/LPBrsr2Brsr4Request.nox	Edit, Merge	11/29/2018 5:06:41 AM	Pradeep L	765694	135581	771255
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Redisclosure_Tolerance_Summary_C2.nox	Edit, Merge	11/29/2018 5:06:41 AM	Pradeep L	765694	135581	771255
+$/NetOxygen/Main/SaaS/NOX Files/WGS_UW_Worksheet1.nox	Edit, Merge	11/29/2018 5:06:41 AM	Pradeep L	765694	135581	771255
+$/NetOxygen/Main/SaaS/NOX Files/WGS_WORKFLOW_EXPLORERADMIN_C1.nox	Edit, Merge	11/29/2018 5:06:41 AM	Pradeep L	765694	135581	771255
+$/NetOxygen/Main/SaaS/NOX Files/WGS_WORKFLOW_EXPLORERADMIN_C2.nox	Edit, Merge	11/29/2018 5:06:41 AM	Pradeep L	765694	135581	771255
+$/NetOxygen/Main/Web Projects/Web_Client/common/xsl/ClosingDisclosurePage1.xsl	Edit, Merge	11/29/2018 5:06:41 AM	Pradeep L	765694	135581	771255
+$/NetOxygen/Main/Web Projects/Web_Client/common/xsl/ClosingDisclosurePage3.xsl	Edit, Merge	11/29/2018 5:06:41 AM	Pradeep L	765694	135581	771255
+$/NetOxygen/Main/Web Projects/Web_Client/common/xsl/ClosingDisclosurePage4.xsl	Edit, Merge	11/29/2018 5:06:41 AM	Pradeep L	765694	135581	771255
+$/NetOxygen/Main/Web Projects/Web_Client/common/xsl/ClosingDisclosurePage5.xsl	Edit, Merge	11/29/2018 5:06:41 AM	Pradeep L	765694	135581	771255
+$/NetOxygen/Main/Web Projects/Web_Client/common/xsl/GFXShortCutFeesControl.xsl	Edit, Merge	11/29/2018 5:06:41 AM	Pradeep L	765694	135581	771255
+$/NetOxygen/Main/Web Projects/Web_Client/common/xsl/WGS_Miscellaneous_Documents.xsl	Edit, Merge	11/29/2018 5:06:41 AM	Pradeep L	765694	135581	771255
+$/NetOxygen/Main/SaaS/NOX Files/IncomeVerification.nox	Edit	11/30/2018 6:50:27 AM	Balaji Natchiappan	765694	135718	772348
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Unlock_Loan.nox	Edit	11/30/2018 6:50:27 AM	Balaji Natchiappan	765694	135718	772348
+$/NetOxygen/Main/SaaS/NOX Files/WGS_WORKFLOW_ADMIN.nox	Edit	11/30/2018 6:50:27 AM	Balaji Natchiappan	765694	135718	772348
+$/NetOxygen/Main/SaaS/NOX Files/WGS_WORKFLOW_EXPLORERADMIN_C1.nox	Edit	11/30/2018 6:50:27 AM	Balaji Natchiappan	765694	135718	772348
+$/NetOxygen/Main/SaaS/NOX Files/WGS_WORKFLOW_EXPLORERADMIN_C2.nox	Edit	11/30/2018 6:50:27 AM	Balaji Natchiappan	765694	135718	772348
+$/NetOxygen/Main/SaaS/NOX Files/WGS_WORKFLOW_EXPLORERADMIN_P.nox	Edit	11/30/2018 6:50:27 AM	Balaji Natchiappan	765694	135718	772348
+$/NetOxygen/Main/SaaS/NOX Files/WGS_WORKFLOW_WIPGRAPH.nox	Edit	11/30/2018 6:50:27 AM	Balaji Natchiappan	765694	135718	772348
+$/NetOxygen/Main/SaaS/NOX Files/WGS_WORKFLOW_WORKREASSIGNMENT_P.nox	Edit	11/30/2018 6:50:27 AM	Balaji Natchiappan	765694	135718	772348
+$/NetOxygen/Main/Web Projects/Web_Client/fw_c2/skins/c2/productselector.css	Edit, Merge	12/3/2018 6:10:40 AM	Balaji Natchiappan	765694	135813	773086
+$/NetOxygen/Main/Configuration/WGS/ConfigurationItemsFiles/WGS.UserDashboard.ConfigurationItems.xml	Edit, Merge	12/6/2018 2:58:02 PM	Jay Gumm	765220	136142	780847
+$/NetOxygen/Main/Configuration/WGS/ConfigurationItemsFiles/WGS.UserDashboardInitialization.ConfigurationItems.xml	Add, Edit, Encoding	12/6/2018 2:58:02 PM	Jay Gumm	765220	136142	780847
+$/NetOxygen/Main/SaaS/Interpreters/UserDashboardSessionMgrCfg.xml	Edit, Merge	12/6/2018 2:58:02 PM	Jay Gumm	765220	136142	780847
+$/NetOxygen/Main/SaaS/NOX Files/WGS_UserDashboard_BatchExport.nox	Delete, Merge	12/6/2018 2:58:02 PM	Jay Gumm	765220	136142	780847
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/Helper Objects/WGS_MenuSetupHelper.cs	Edit, Merge	12/6/2018 2:58:02 PM	Jay Gumm	765220	136142	780847
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/Helper Objects/UserDashboard/WGSUserDashboardBatchExport.cs	Delete, Merge	12/6/2018 2:58:02 PM	Jay Gumm	765220	136142	780847
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/Helper Objects/UserDashboard/WGSUserDashboardControl.cs	Edit	12/6/2018 2:58:02 PM	Jay Gumm	765220	136142	780847
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/Helper Objects/UserDashboard/WGSUserDashboardEnumeration.cs	Edit, Merge	12/6/2018 2:58:02 PM	Jay Gumm	765220	136142	780847
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/Helper Objects/UserDashboard/WGSUserDashboardSearchControl.cs	Edit, Merge	12/6/2018 2:58:02 PM	Jay Gumm	765220	136142	780847
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/Helper Objects/UserDashboard/Widgets/WGSUserDashboardWidgetWorkflowByX.cs	Encoding, Branch, Merge	12/6/2018 2:58:02 PM	Jay Gumm	765220	136142	780847
+$/NetOxygen/Main/SaaS/Scripts/Shared/NetOxygen.ToolTreeInfo.xml	Edit, Merge	12/6/2018 2:58:02 PM	Jay Gumm	765220	136142	780847
+$/NetOxygen/Main/SaaS/Scripts/Shared/NetOxygen.WGSUserDashboard.xml	Delete	12/6/2018 2:58:02 PM	Jay Gumm	765220	136142	780847
+$/NetOxygen/Main/Web Projects/Web_Client/common/html/GFXClientYesNoPrompt.htm	Edit, Merge	12/6/2018 2:58:02 PM	Jay Gumm	765220	136142	780847
+$/NetOxygen/Main/Web Projects/Web_Client/common/html_modals/modal_answer_questions.htm	Edit, Merge	12/6/2018 2:58:02 PM	Jay Gumm	765220	136142	780847
+$/NetOxygen/Main/Web Projects/Web_Client/common/xsl/WGS_Product_Scenario.xsl	Edit	12/6/2018 2:58:02 PM	Jay Gumm	765220	136142	780847
+$/NetOxygen/Main/Web Projects/Web_Client/common/xsl/WGSUserDashboardToolbar.xsl	Edit, Merge	12/6/2018 2:58:02 PM	Jay Gumm	765220	136142	780847
+$/NetOxygen/Main/Web Projects/Web_Client/common/xsl/WGSUserDashboardWidgetWorkflowByX.xsl	Encoding, Branch, Merge	12/6/2018 2:58:02 PM	Jay Gumm	765220	136142	780847
+$/NetOxygen/Main/Web Projects/Web_Client/common/xsl/WorkflowExplorerAdminProperties.xsl	Edit	12/6/2018 2:58:02 PM	Jay Gumm	765220	136142	780847
+$/NetOxygen/Main/Web Projects/Web_Client/fw_c2/WGS_Interface_Explorer.htm	Edit	12/6/2018 2:58:02 PM	Jay Gumm	765220	136142	780847
+$/NetOxygen/Main/Web Projects/Web_Client/fw_c2/skins/c2/InterfaceExplorer.css	Edit	12/6/2018 2:58:02 PM	Jay Gumm	765220	136142	780847
+$/NetOxygen/Main/Configuration/WGS/ConfigurationItemsFiles/WGS.UserDashboardInitialization.ConfigurationItems.xml	Edit	12/10/2018 4:29:17 PM	Jay Gumm	765220	136369	782458
+$/NetOxygen/Main/SaaS/Interpreters/WorkflowSessionMgrCfg.xml	Edit, Merge	12/10/2018 4:29:17 PM	Jay Gumm	765220	136369	782458
+$/NetOxygen/Main/SaaS/NOX Files/WGS_UserDashboard_Widget_WorkflowByX.nox	Add, Edit, Encoding	12/10/2018 4:29:17 PM	Jay Gumm	765220	136369	782458
+$/NetOxygen/Main/SaaS/NOX Files/WGS_WORKFLOW_ADHOC_CUSTOM2.nox	Encoding, Branch, Merge	12/10/2018 4:29:17 PM	Jay Gumm	765220	136369	782458
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/WGS_Workflow_Adhoc_Custom2.cs	Encoding, Branch, Merge	12/10/2018 4:29:17 PM	Jay Gumm	765220	136369	782458
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/WGS_Workflow_Adhoc_Predefined.cs	Edit, Merge	12/10/2018 4:29:17 PM	Jay Gumm	765220	136369	782458
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/WGS_Workflow_Resolution.cs	Edit, Merge	12/10/2018 4:29:17 PM	Jay Gumm	765220	136369	782458
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/Helper Objects/UserDashboard/WGSUserDashboardControl.cs	Edit, Merge	12/10/2018 4:29:17 PM	Jay Gumm	765220	136369	782458
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/Helper Objects/UserDashboard/WGSUserDashboardEnumeration.cs	Edit, Merge	12/10/2018 4:29:17 PM	Jay Gumm	765220	136369	782458
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/Helper Objects/UserDashboard/WGSUserDashboardLoanSelectorDataGrid.cs	Edit, Merge	12/10/2018 4:29:17 PM	Jay Gumm	765220	136369	782458
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/Helper Objects/UserDashboard/WGSWorkflowResolutionDialogHelper.cs	Edit, Merge	12/10/2018 4:29:17 PM	Jay Gumm	765220	136369	782458
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/Helper Objects/UserDashboard/Alerts/WGSUserDashboardAppraisalAlert.cs	Edit, Merge	12/10/2018 4:29:17 PM	Jay Gumm	765220	136369	782458
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/Helper Objects/UserDashboard/Alerts/WGSUserDashboardInitialDisclosureAlert.cs	Edit, Merge	12/10/2018 4:29:17 PM	Jay Gumm	765220	136369	782458
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/Helper Objects/UserDashboard/Alerts/WGSUserDashboardIntentToProceedAlert.cs	Edit, Merge	12/10/2018 4:29:17 PM	Jay Gumm	765220	136369	782458
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/Helper Objects/UserDashboard/Alerts/WGSUserDashboardNOIAlert.cs	Edit, Merge	12/10/2018 4:29:17 PM	Jay Gumm	765220	136369	782458
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/Helper Objects/UserDashboard/Alerts/WGSUserDashboardRateLockAlert.cs	Edit, Merge	12/10/2018 4:29:17 PM	Jay Gumm	765220	136369	782458
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/Helper Objects/UserDashboard/Alerts/WGSUserDashboardRedisclosureAlert.cs	Edit, Merge	12/10/2018 4:29:17 PM	Jay Gumm	765220	136369	782458
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/Helper Objects/UserDashboard/Alerts/WGSUserDashboardRegBAlert.cs	Edit, Merge	12/10/2018 4:29:17 PM	Jay Gumm	765220	136369	782458
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/Helper Objects/UserDashboard/Alerts/WGSUserDashboardTitleAlert.cs	Edit, Merge	12/10/2018 4:29:17 PM	Jay Gumm	765220	136369	782458
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/Helper Objects/UserDashboard/Alerts/WGSUserDashboardUWExpirationAlert.cs	Edit, Merge	12/10/2018 4:29:17 PM	Jay Gumm	765220	136369	782458
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/Helper Objects/UserDashboard/Widgets/WGSUserDashboardWidgetBase.cs	Edit, Merge	12/10/2018 4:29:17 PM	Jay Gumm	765220	136369	782458
+$/NetOxygen/Main/Web Projects/Web_Client/common/xsl/WGSWorkflowResolution.xsl	Edit, Merge	12/10/2018 4:29:17 PM	Jay Gumm	765220	136369	782458
+$/NetOxygen/Main/Web Projects/Web_Client/fw_c2/WGS_WORKFLOW_Resolution.js	Edit, Merge	12/10/2018 4:29:17 PM	Jay Gumm	765220	136369	782458
+$/NetOxygen/Main/Web Projects/Web_Client/common/images/UserDashboard/wf_add.png	Encoding, Branch, Merge	12/11/2018 12:57:07 PM	Jay Gumm	765220	136468	783366
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Dashbrd.nox	Edit, Merge	12/13/2018 4:33:21 PM	Jay Gumm	765220	136665	785532
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/WGS_Workflow_Details.cs	Edit, Merge	12/13/2018 4:33:21 PM	Jay Gumm	765220	136665	785532
+$/NetOxygen/Main/Galaxy/Data Exchange Objects/Interface Mappings/Closing/2.6/ExpereRequestTxn.xsl	Edit	11/28/2018 6:49:48 AM	Gogineni Sandhya	768738	135468	770407
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/WGS_Redisclosure_Tolerance_Summary_C2.cs	Add, Edit, Encoding	11/29/2018 10:01:03 AM	Evanjalin Mercy	765787	135630	770999
+$/NetOxygen/Main/Database/Release Scripts/SaaS/Setup DML/SQLS_770280_SETUP_DML.sql	Encoding, Branch, Merge	11/30/2018 1:33:12 AM	Subashri P	770280	135679	772084
+$/NetOxygen/Main/SaaS/Scripts/Interfaces/FreddiMacCAC.cs	Edit, Merge	11/30/2018 9:05:09 AM	Arun S R	771211	135741	772500
+$/NetOxygen/Main/SaaS/NOX Files/DocuTechRequest.nox	Edit, Merge	12/6/2018 6:46:05 AM	Pradeep L	773633	136099	779213
+$/NetOxygen/Main/SaaS/NOX Files/DocuTechRequest_LightsOut.nox	Edit, Merge	12/6/2018 6:46:05 AM	Pradeep L	773633	136099	779213
+$/NetOxygen/Main/SaaS/NOX Files/K1_AveragingDetails.nox	Edit, Merge	12/6/2018 6:46:05 AM	Pradeep L	773633	136099	779213
+$/NetOxygen/Main/SaaS/NOX Files/WGS_1003_Section3_C_NOYRS.nox	Edit, Merge	12/6/2018 6:46:05 AM	Pradeep L	773633	136099	779213
+$/NetOxygen/Main/SaaS/NOX Files/WGS_1003_Section3_NOYRS_P.nox	Edit, Merge	12/6/2018 6:46:05 AM	Pradeep L	773633	136099	779213
+$/NetOxygen/Main/SaaS/NOX Files/WGS_1003_Section7.nox	Edit, Merge	12/6/2018 6:46:05 AM	Pradeep L	773633	136099	779213
+$/NetOxygen/Main/SaaS/NOX Files/WGS_ACO_APPRAISAL_REQUESTED_1.nox	Edit, Merge	12/6/2018 6:46:05 AM	Pradeep L	773633	136099	779213
+$/NetOxygen/Main/SaaS/NOX Files/WGS_B2C_Portal_Registration.nox	Edit, Merge	12/6/2018 6:46:05 AM	Pradeep L	773633	136099	779213
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Closing_Overview.nox	Edit, Merge	12/6/2018 6:46:05 AM	Pradeep L	773633	136099	779213
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Collateral_Automobile_P.nox	Edit, Merge	12/6/2018 6:46:05 AM	Pradeep L	773633	136099	779213
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Custom_Product_Selector.nox	Edit, Merge	12/6/2018 6:46:05 AM	Pradeep L	773633	136099	779213
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Disbursements_Prep_C2.nox	Edit, Merge	12/6/2018 6:46:05 AM	Pradeep L	773633	136099	779213
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Hard_Cost.nox	Edit, Merge	12/6/2018 6:46:05 AM	Pradeep L	773633	136099	779213
+$/NetOxygen/Main/SaaS/NOX Files/WGS_HMDA2018INFO_Summary.nox	Edit, Merge	12/6/2018 6:46:05 AM	Pradeep L	773633	136099	779213
+$/NetOxygen/Main/SaaS/NOX Files/WGS_ID_Tolerance.nox	Edit, Merge	12/6/2018 6:46:05 AM	Pradeep L	773633	136099	779213
+$/NetOxygen/Main/SaaS/NOX Files/WGS_ID_Tolerance_C1.nox	Edit, Merge	12/6/2018 6:46:05 AM	Pradeep L	773633	136099	779213
+$/NetOxygen/Main/SaaS/NOX Files/WGS_ID_Tolerance_C2.nox	Edit, Merge	12/6/2018 6:46:05 AM	Pradeep L	773633	136099	779213
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Income_Statement_Ann_Rev_M.nox	Edit, Merge	12/6/2018 6:46:05 AM	Pradeep L	773633	136099	779213
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Interim_Payments_History_P.nox	Edit, Merge	12/6/2018 6:46:05 AM	Pradeep L	773633	136099	779213
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Loan_Origination_Reconcile_P.nox	Edit, Merge	12/6/2018 6:46:05 AM	Pradeep L	773633	136099	779213
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Lock_Summary.nox	Edit, Merge	12/6/2018 6:46:05 AM	Pradeep L	773633	136099	779213
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Notice_Of_Value.nox	Edit, Merge	12/6/2018 6:46:05 AM	Pradeep L	773633	136099	779213
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Property_Product_Buydown_P.nox	Edit, Merge	12/6/2018 6:46:05 AM	Pradeep L	773633	136099	779213
+$/NetOxygen/Main/SaaS/NOX Files/WGS_ToolBar_Borrower_Alias_P.nox	Edit, Merge	12/6/2018 6:46:05 AM	Pradeep L	773633	136099	779213
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Vet_Loan_Summary.nox	Edit, Merge	12/6/2018 6:46:05 AM	Pradeep L	773633	136099	779213
+$/NetOxygen/Main/SaaS/NOX Files/wgs1_DeliveryData7.nox	Edit, Merge	12/6/2018 6:46:05 AM	Pradeep L	773633	136099	779213
+$/NetOxygen/Main/SaaS/NOX Files/WGSIncomeVerifyVeriTax_C.nox	Edit, Merge	12/6/2018 6:46:05 AM	Pradeep L	773633	136099	779213
+$/NetOxygen/Main/SaaS/NOX Files/AVMSTATUS.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/FLOODDETERMINATION.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/FLOODSTATUS.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/GFX_Liabilities.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/GFX_Scores.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/GFX_Scores_A.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/GFX_View_Credit_Report.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/GFXImageRepository.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/GFXImageRepository_Embed.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/LPFeedBack.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/LPReports.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_1003Section3_AuthRep_Attorney_Emb.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_ACO_APPRAISAL_REQUESTED_1.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_ACO_AppraisalProcing_1.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_B2G_Case_Number_Assignment_Request.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Closing_Details.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Closing_Disclosure_Detail.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Closing_Overview_P1.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Collateral_C.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Collateral_Deposit.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Collateral_Life_Insurance.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Collateral_Marine_C.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Collateral_Marine_Engine.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Collateral_Marine_P.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Collateral_Other.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Collateral_RV_C.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Collateral_RV_P.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Collateral_Trailer_C.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Collateral_Trailer_P.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Consumer_App_C.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Consumer_App_C1.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Consumer_App_C2.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Consumer_App_P.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Consumer_App_P3.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Consumer_Dates.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Consumer_POA.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Dates_E.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Dates_NOI.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Debt_Consolidation_Multi_Edit.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Debt_Consolidation1_C.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Debt_Consolidation1_P.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Debt_Consolidation2_C.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Debt_Consolidation2_P.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Debt_Protection.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Ernst_PropertyTax_Response.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_FannieMaeRequestReferenceNum.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Funding_Details.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Hard_Cost_Details.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_HELOC_Loan_Info_C.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_HUD_200.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_HUD_400.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_HUD_500.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Income_YTD.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_LEF_Batch_Export.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_LEF_Batch_Export_C.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Loan_Summary.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Military_Lending_Validation.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_NadaRequest.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Property_Product_Buydown_C.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Simplifile_Request.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_ToolBar_Borrower_Alias_C.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_ToolBar_Borrower_Alias_P.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Validate_Consumer_App.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGS_VehicleValuationRequest.nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/WGSX3_Downpayment .nox	Edit, Merge	12/7/2018 1:47:29 PM	Balaji Natchiappan	773633	136247	781486
+$/NetOxygen/Main/SaaS/NOX Files/APPRAISAL_REQUEST_C1_LenderX.nox	Edit, Merge	12/12/2018 12:56:01 AM	Balaji Natchiappan	773633	136499	783302
+$/NetOxygen/Main/SaaS/NOX Files/GF_CMSLOAN_ADD.nox	Edit, Merge	12/12/2018 12:56:01 AM	Balaji Natchiappan	773633	136499	783302
+$/NetOxygen/Main/SaaS/NOX Files/GFX_Liabilities_Embedded_1.nox	Edit, Merge	12/12/2018 12:56:01 AM	Balaji Natchiappan	773633	136499	783302
+$/NetOxygen/Main/SaaS/NOX Files/GFX_Liabilities_Embedded_2.nox	Edit, Merge	12/12/2018 12:56:01 AM	Balaji Natchiappan	773633	136499	783302
+$/NetOxygen/Main/SaaS/NOX Files/GFX_Scores.nox	Edit, Merge	12/12/2018 12:56:01 AM	Balaji Natchiappan	773633	136499	783302
+$/NetOxygen/Main/SaaS/NOX Files/GFX_Scores_A.nox	Edit, Merge	12/12/2018 12:56:01 AM	Balaji Natchiappan	773633	136499	783302
+$/NetOxygen/Main/SaaS/NOX Files/LPFeedBack.nox	Edit, Merge	12/12/2018 12:56:01 AM	Balaji Natchiappan	773633	136499	783302
+$/NetOxygen/Main/SaaS/NOX Files/VOEDetails.nox	Edit, Merge	12/12/2018 12:56:01 AM	Balaji Natchiappan	773633	136499	783302
+$/NetOxygen/Main/SaaS/NOX Files/WGS_1003_Section6_AppNum.nox	Edit, Merge	12/12/2018 12:56:01 AM	Balaji Natchiappan	773633	136499	783302
+$/NetOxygen/Main/SaaS/NOX Files/WGS_AppraisalRequestImage.nox	Edit, Merge	12/12/2018 12:56:01 AM	Balaji Natchiappan	773633	136499	783302
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Consumer_App_C2.nox	Edit, Merge	12/12/2018 12:56:01 AM	Balaji Natchiappan	773633	136499	783302
+$/NetOxygen/Main/SaaS/NOX Files/WGS_HUD_500.nox	Edit, Merge	12/12/2018 12:56:01 AM	Balaji Natchiappan	773633	136499	783302
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Notice_Of_Value.nox	Edit, Merge	12/12/2018 12:56:01 AM	Balaji Natchiappan	773633	136499	783302
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Property_Product_Loan_Info.nox	Edit, Merge	12/12/2018 12:56:01 AM	Balaji Natchiappan	773633	136499	783302
+$/NetOxygen/Main/Web Projects/Web_Client/common/xsl/LoanEstimatePageA.xsl	Edit, Merge	12/12/2018 12:56:01 AM	Balaji Natchiappan	773633	136499	783302
+$/NetOxygen/Main/Web Projects/Web_Client/common/xsl/LoanEstimatePageC.xsl	Edit, Merge	12/12/2018 12:56:01 AM	Balaji Natchiappan	773633	136499	783302
+$/NetOxygen/Main/SaaS/NOX Files/MIRESPONSE.nox	Edit, Merge	12/13/2018 11:28:28 AM	Balaji Natchiappan	773633	136641	785344
+$/NetOxygen/Main/SaaS/NOX Files/WGS_B2G_Appraisal_Logging_Request.nox	Edit, Merge	12/13/2018 11:28:28 AM	Balaji Natchiappan	773633	136641	785344
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Closing_Overview_P1.nox	Edit, Merge	12/13/2018 11:28:28 AM	Balaji Natchiappan	773633	136641	785344
+$/NetOxygen/Main/SaaS/NOX Files/WGS_FraudGuard_Response.nox	Edit, Merge	12/13/2018 11:28:28 AM	Balaji Natchiappan	773633	136641	785344
+$/NetOxygen/Main/Web Projects/Web_Client/fw_c2/GFXBaseDocument.htm	Edit, Merge	12/13/2018 11:28:28 AM	Balaji Natchiappan	773633	136641	785344
+$/NetOxygen/Main/Database/Release Scripts/SaaS/Setup DML/SQLS_765915_SETUP_DML.sql	Add, Edit, Encoding	12/10/2018 2:40:52 PM	Jason Teng	765915	136355	782462
+$/NetOxygen/Main/SaaS/Scripts/Defaults/1003Field_Verification.cs	Edit, Merge	12/6/2018 11:54:59 PM	Senguttuvan Gnanapragasam	766201	136157	781121
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/WGS_Validate_1003.cs	Edit, Merge	12/6/2018 11:54:59 PM	Senguttuvan Gnanapragasam	766201	136157	781121
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/WGS_Validate_1003.cs	Edit, Merge	12/7/2018 3:49:41 AM	Senguttuvan Gnanapragasam	766201	136190	781254
+$/NetOxygen/Main/SaaS/Scripts/Shared/IntegratedDisclosuresHelper.cs	Edit	12/7/2018 10:22:57 AM	Famitha Ginthasha	754559	136224	781478
+$/NetOxygen/Main/Web Projects/Web_Client/common/xsl/ClosingDisclosurePage1.xsl	Edit	12/7/2018 10:22:57 AM	Famitha Ginthasha	754559	136224	781478
+$/NetOxygen/Main/Web Projects/Web_Client/common/xsl/LoanEstimatePageA.xsl	Edit	12/7/2018 10:22:57 AM	Famitha Ginthasha	754559	136224	781478
+$/NetOxygen/Main/Web Projects/Web_Client/nox_templates/NOX_BatchC2Framework.xml	Edit, Merge	12/7/2018 6:30:24 AM	Sriharish S	738258	136209	781399
+$/NetOxygen/Main/Web Projects/Web_Client/nox_templates/NOX_BatchSaaSFramework.xml	Edit, Merge	12/7/2018 6:30:24 AM	Sriharish S	738258	136209	781399
+$/NetOxygen/Main/Web Projects/Web_Client/nox_templates/NOX_Templates.xml	Edit, Merge	12/7/2018 6:30:24 AM	Sriharish S	738258	136209	781399
+$/NetOxygen/Main/SaaS/Scripts/Defaults/AccurateAVM.cs	Edit, Merge	12/10/2018 8:57:05 PM	Sneha Thirumani Kumar	773748	136383	782231
+$/NetOxygen/Main/SaaS/Scripts/Defaults/Using Southwest AVM.cs	Edit, Merge	12/10/2018 8:57:05 PM	Sneha Thirumani Kumar	773748	136383	782231
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/Desktop Originator.cs	Edit, Merge	12/10/2018 8:57:05 PM	Sneha Thirumani Kumar	773748	136383	782231
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/Desktop Underwriter.cs	Edit, Merge	12/10/2018 8:57:05 PM	Sneha Thirumani Kumar	773748	136383	782231
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/First American Flood.cs	Edit, Merge	12/10/2018 8:57:05 PM	Sneha Thirumani Kumar	773748	136383	782231
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/FirstTitleFeeInquiry.cs	Edit, Merge	12/10/2018 8:57:05 PM	Sneha Thirumani Kumar	773748	136383	782231
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/FNMA EarlyCheck.cs	Edit, Merge	12/10/2018 8:57:05 PM	Sneha Thirumani Kumar	773748	136383	782231
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/LPS Flood.cs	Edit, Merge	12/10/2018 8:57:05 PM	Sneha Thirumani Kumar	773748	136383	782231
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Consumer_App_C.nox	Edit	12/11/2018 8:44:56 AM	Nagarjuna Kumar	766266	136442	783216
+$/NetOxygen/Main/SaaS/NOX Files/WGS_Consumer_App_C1.nox	Edit	12/11/2018 8:44:56 AM	Nagarjuna Kumar	766266	136442	783216
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/WGS_1003_Section3_C_NOYRS.cs	Edit	12/11/2018 8:44:56 AM	Nagarjuna Kumar	766266	136442	783216
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/WGS_Manage_Import.cs	Edit, Merge	12/11/2018 10:16:08 PM	Sivakumar Mohan	739453	136490	783393
+$/NetOxygen/Main/Web Projects/Web_Client/common/images/Rollback.png	Encoding, Branch, Merge	12/11/2018 10:16:08 PM	Sivakumar Mohan	739453	136490	783393
+$/NetOxygen/Main/Web Projects/Web_Client/common/javascripts/control_handlers/GFXJQGrid.js	Edit, Merge	12/11/2018 10:16:08 PM	Sivakumar Mohan	739453	136490	783393
+$/NetOxygen/Main/Web Projects/Web_Client/fw_c2/WGS_Import_ViewHistory.htm	Edit, Merge	12/11/2018 10:16:08 PM	Sivakumar Mohan	739453	136490	783393
+$/NetOxygen/Main/Web Projects/Web_Client/fw_saas/WGS_Import_ViewHistory.htm	Edit, Merge	12/11/2018 10:16:08 PM	Sivakumar Mohan	739453	136490	783393
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/WGS_Import_PackageExplorer.cs	Edit, Merge	12/12/2018 10:39:44 PM	Sivakumar Mohan	739453	136562	784060
+$/NetOxygen/Main/SaaS/Scripts/Dialogs/WGS_Manage_Import.cs	Edit, Merge	12/12/2018 10:39:44 PM	Sivakumar Mohan	739453	136562	784060
